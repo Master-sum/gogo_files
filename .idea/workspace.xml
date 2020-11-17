@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f760b8d-246a-40df-890c-dc2e594d5a23" name="Default Changelist" comment="" />
+    <list default="true" id="0f760b8d-246a-40df-890c-dc2e594d5a23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/nell.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +42,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Go Build.go build zhizhen.go">
+  <component name="RunManager" selected="Go Build.go build nell.go">
     <configuration name="go build hello.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_files" />
       <working_directory value="$PROJECT_DIR$" />
@@ -53,6 +56,14 @@
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/http.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build nell.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_files" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/nell.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -74,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build nell.go" />
         <item itemvalue="Go Build.go build zhizhen.go" />
         <item itemvalue="Go Build.go build var_use.go" />
         <item itemvalue="Go Build.go build http.go" />
@@ -98,22 +110,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="593" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1605625107439" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1605625011188">
+    <state x="526" y="155" key="Github.UntrackedFilesDialog" timestamp="1605625162628">
+      <screen x="77" y="23" width="1363" height="877" />
+    </state>
+    <state x="526" y="155" key="Github.UntrackedFilesDialog/77.23.1363.877@77.23.1363.877" timestamp="1605625162628" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1605625378415">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605625011188" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1605625011187">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605625378415" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1605625378414">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605625011187" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1605625011187">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605625378414" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1605625378414">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605625011187" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1605625011188">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605625378414" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1605625378415">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605625011188" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605625378415" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1605624754133">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
