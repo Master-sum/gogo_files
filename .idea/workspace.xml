@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f760b8d-246a-40df-890c-dc2e594d5a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/nell.go" afterDir="false" />
+    <list default="true" id="0f760b8d-246a-40df-890c-dc2e594d5a23" name="Default Changelist" comment="结构体类型变量使用 struct 关键字定义">
+      <change afterPath="$PROJECT_DIR$/go_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RunManager" selected="Go Build.go build struct_go.go">
     <configuration name="go build http.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -97,6 +97,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="go空指针" />
+    <MESSAGE value="结构体类型变量使用 struct 关键字定义" />
+    <option name="LAST_COMMIT_MESSAGE" value="结构体类型变量使用 struct 关键字定义" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="520" y="387" key="#GOROOT" timestamp="1605344635043">
       <screen x="0" y="0" width="1440" height="900" />
@@ -114,25 +119,29 @@
       <screen x="77" y="23" width="1363" height="877" />
     </state>
     <state x="526" y="155" key="Github.UntrackedFilesDialog/77.23.1363.877@77.23.1363.877" timestamp="1605625162628" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1605625378415">
+    <state width="699" height="245" key="GridCell.Tab.0.bottom" timestamp="1605626887438">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605625378415" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1605625378414">
+    <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605626887438" />
+    <state width="699" height="245" key="GridCell.Tab.0.center" timestamp="1605626887437">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605625378414" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1605625378414">
+    <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605626887437" />
+    <state width="699" height="245" key="GridCell.Tab.0.left" timestamp="1605626887437">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605625378414" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1605625378415">
+    <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605626887437" />
+    <state width="699" height="245" key="GridCell.Tab.0.right" timestamp="1605626887437">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605625378415" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1605624754133">
+    <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605626887437" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1605626800201">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605624754133" />
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605626800201" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605625742149">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605625742149" />
   </component>
 </project>
