@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f760b8d-246a-40df-890c-dc2e594d5a23" name="Default Changelist" comment="使用指针修改值">
-      <change afterPath="$PROJECT_DIR$/day04.go" afterDir="false" />
+    <list default="true" id="0f760b8d-246a-40df-890c-dc2e594d5a23" name="Default Changelist" comment="这里就是将两个的地址进行了交换，但是值没有进行交换">
+      <change afterPath="$PROJECT_DIR$/day05.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,15 +59,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Go Build.go build day04.go">
-    <configuration name="go build Range.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="go_files" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Range.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build day05.go">
     <configuration name="go build day01.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_files" />
       <working_directory value="$PROJECT_DIR$" />
@@ -100,13 +92,21 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build day05.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_files" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/day05.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build day05.go" />
         <item itemvalue="Go Build.go build day04.go" />
         <item itemvalue="Go Build.go build day03.go" />
         <item itemvalue="Go Build.go build day02.go" />
         <item itemvalue="Go Build.go build day01.go" />
-        <item itemvalue="Go Build.go build Range.go" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +135,8 @@
     <MESSAGE value="for" />
     <MESSAGE value="对于&amp;和*的指针取地址和取值进行操作" />
     <MESSAGE value="使用指针修改值" />
-    <option name="LAST_COMMIT_MESSAGE" value="使用指针修改值" />
+    <MESSAGE value="这里就是将两个的地址进行了交换，但是值没有进行交换" />
+    <option name="LAST_COMMIT_MESSAGE" value="这里就是将两个的地址进行了交换，但是值没有进行交换" />
   </component>
   <component name="WindowStateProjectService">
     <state x="520" y="387" key="#GOROOT" timestamp="1605344635043">
@@ -154,29 +155,29 @@
       <screen x="77" y="23" width="1363" height="877" />
     </state>
     <state x="526" y="155" key="Github.UntrackedFilesDialog/77.23.1363.877@77.23.1363.877" timestamp="1605625162628" />
-    <state width="699" height="245" key="GridCell.Tab.0.bottom" timestamp="1606030623855">
+    <state width="699" height="245" key="GridCell.Tab.0.bottom" timestamp="1606031325265">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606030623855" />
-    <state width="699" height="245" key="GridCell.Tab.0.center" timestamp="1606030623855">
+    <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606031325265" />
+    <state width="699" height="245" key="GridCell.Tab.0.center" timestamp="1606031325264">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606030623855" />
-    <state width="699" height="245" key="GridCell.Tab.0.left" timestamp="1606030623854">
+    <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606031325264" />
+    <state width="699" height="245" key="GridCell.Tab.0.left" timestamp="1606031325263">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606030623854" />
-    <state width="699" height="245" key="GridCell.Tab.0.right" timestamp="1606030623855">
+    <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606031325263" />
+    <state width="699" height="245" key="GridCell.Tab.0.right" timestamp="1606031325264">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606030623855" />
+    <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606031325264" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1605626800201">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605626800201" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1606030390395">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1606030731388">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606030390395" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606030731388" />
   </component>
 </project>
