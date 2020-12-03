@@ -13,7 +13,7 @@ func main() {
 	switch {
 	case s == "hello":
 		fmt.Println("hello")
-		fallthrough
+
 	case s != "ss":
 		fmt.Println("world")
 
