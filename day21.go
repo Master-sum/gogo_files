@@ -13,7 +13,7 @@ func play(name string) func() (string, int) {
 	hp := 160
 	//创建一个闭包
 	return func() (string, int) {
-		//返回
+		//返回1
 		return name, hp
 	}
 }
