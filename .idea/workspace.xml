@@ -16,12 +16,17 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f760b8d-246a-40df-890c-dc2e594d5a23" name="Default Changelist" comment="延时函数操作">
-      <change afterPath="$PROJECT_DIR$/day24.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day27.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +42,11 @@
   </component>
   <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kH4fAvqnqufd8CRR938mNcKjlJ" />
@@ -60,15 +70,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Go Build.go build day24.go">
-    <configuration name="go build day19.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="go_files" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/day19.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build day27.go">
     <configuration name="go build day21.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_files" />
       <working_directory value="$PROJECT_DIR$" />
@@ -101,13 +103,21 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build day27.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_files" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/day27.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build day27.go" />
         <item itemvalue="Go Build.go build day24.go" />
         <item itemvalue="Go Build.go build day23.go" />
         <item itemvalue="Go Build.go build day22.go" />
         <item itemvalue="Go Build.go build day21.go" />
-        <item itemvalue="Go Build.go build day19.go" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +130,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -172,28 +194,28 @@
       <screen x="77" y="23" width="1363" height="877" />
     </state>
     <state x="526" y="155" key="Github.UntrackedFilesDialog/77.23.1363.877@77.23.1363.877" timestamp="1605625162628" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1607529054958">
+    <state width="699" height="245" key="GridCell.Tab.0.bottom" timestamp="1607870848657">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607529054958" />
+    <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607870848657" />
     <state width="699" height="245" key="GridCell.Tab.0.bottom/77.23.1363.877@77.23.1363.877" timestamp="1606839549293" />
     <state width="699" height="245" key="GridCell.Tab.0.bottom/80.23.1360.877@80.23.1360.877" timestamp="1606926379056" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1607529054957">
+    <state width="699" height="245" key="GridCell.Tab.0.center" timestamp="1607870848655">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607529054957" />
+    <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607870848655" />
     <state width="699" height="245" key="GridCell.Tab.0.center/77.23.1363.877@77.23.1363.877" timestamp="1606839549288" />
     <state width="699" height="245" key="GridCell.Tab.0.center/80.23.1360.877@80.23.1360.877" timestamp="1606926379056" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1607529054956">
+    <state width="699" height="245" key="GridCell.Tab.0.left" timestamp="1607870848654">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607529054956" />
+    <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607870848654" />
     <state width="699" height="245" key="GridCell.Tab.0.left/77.23.1363.877@77.23.1363.877" timestamp="1606839549286" />
     <state width="699" height="245" key="GridCell.Tab.0.left/80.23.1360.877@80.23.1360.877" timestamp="1606926379055" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1607529054957">
+    <state width="699" height="245" key="GridCell.Tab.0.right" timestamp="1607870848656">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607529054957" />
+    <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607870848656" />
     <state width="699" height="245" key="GridCell.Tab.0.right/77.23.1363.877@77.23.1363.877" timestamp="1606839549291" />
     <state width="699" height="245" key="GridCell.Tab.0.right/80.23.1360.877@80.23.1360.877" timestamp="1606926379056" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1605626800201">
