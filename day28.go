@@ -11,6 +11,7 @@ import (
 	"sort"
 )
 
+//
 type Mylist []string
 
 func (m Mylist) Len() int {

@@ -26,9 +26,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f760b8d-246a-40df-890c-dc2e594d5a23" name="Default Changelist" comment="go的日志实现">
-      <change afterPath="$PROJECT_DIR$/day28.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0f760b8d-246a-40df-890c-dc2e594d5a23" name="Default Changelist" comment="go排序接口">
+      <change beforePath="$PROJECT_DIR$/day28.go" beforeDir="false" afterPath="$PROJECT_DIR$/day28.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +151,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="go切片01" />
     <MESSAGE value="go切片02" />
     <MESSAGE value="range遍历" />
     <MESSAGE value="for" />
@@ -177,7 +175,8 @@
     <MESSAGE value="遍历可变参数列表" />
     <MESSAGE value="延时函数操作" />
     <MESSAGE value="go的日志实现" />
-    <option name="LAST_COMMIT_MESSAGE" value="go的日志实现" />
+    <MESSAGE value="go排序接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="go排序接口" />
   </component>
   <component name="WindowStateProjectService">
     <state x="520" y="387" key="#GOROOT" timestamp="1605344635043">
@@ -240,9 +239,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605626800201" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1607870890104">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1607960984973">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607870890104" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607960984973" />
   </component>
 </project>
