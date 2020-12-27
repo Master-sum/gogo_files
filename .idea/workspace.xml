@@ -195,28 +195,28 @@
       <screen x="77" y="23" width="1363" height="877" />
     </state>
     <state x="526" y="155" key="Github.UntrackedFilesDialog/77.23.1363.877@77.23.1363.877" timestamp="1605625162628" />
-    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1607874099017">
-      <screen x="80" y="23" width="1360" height="877" />
+    <state width="699" height="245" key="GridCell.Tab.0.bottom" timestamp="1607961392436">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607870915222" />
+    <state width="699" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607961392436" />
     <state width="699" height="245" key="GridCell.Tab.0.bottom/77.23.1363.877@77.23.1363.877" timestamp="1606839549293" />
     <state width="1398" height="304" key="GridCell.Tab.0.bottom/80.23.1360.877@80.23.1360.877" timestamp="1607874099017" />
-    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1607874099015">
-      <screen x="80" y="23" width="1360" height="877" />
+    <state width="699" height="245" key="GridCell.Tab.0.center" timestamp="1607961392435">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607870915219" />
+    <state width="699" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607961392435" />
     <state width="699" height="245" key="GridCell.Tab.0.center/77.23.1363.877@77.23.1363.877" timestamp="1606839549288" />
     <state width="1398" height="304" key="GridCell.Tab.0.center/80.23.1360.877@80.23.1360.877" timestamp="1607874099015" />
-    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1607874099013">
-      <screen x="80" y="23" width="1360" height="877" />
+    <state width="699" height="245" key="GridCell.Tab.0.left" timestamp="1607961392434">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607870915218" />
+    <state width="699" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607961392434" />
     <state width="699" height="245" key="GridCell.Tab.0.left/77.23.1363.877@77.23.1363.877" timestamp="1606839549286" />
     <state width="1398" height="304" key="GridCell.Tab.0.left/80.23.1360.877@80.23.1360.877" timestamp="1607874099013" />
-    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1607874099016">
-      <screen x="80" y="23" width="1360" height="877" />
+    <state width="699" height="245" key="GridCell.Tab.0.right" timestamp="1607961392436">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607870915221" />
+    <state width="699" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607961392436" />
     <state width="699" height="245" key="GridCell.Tab.0.right/77.23.1363.877@77.23.1363.877" timestamp="1606839549291" />
     <state width="1398" height="304" key="GridCell.Tab.0.right/80.23.1360.877@80.23.1360.877" timestamp="1607874099016" />
     <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1607874099024">
@@ -239,9 +239,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605626800201" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1607960984973">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1607961352620">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607960984973" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607961352620" />
   </component>
 </project>
